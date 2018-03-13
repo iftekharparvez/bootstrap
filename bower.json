@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap 4",
+  "description": "this is practice",
+  "main": "",
+  "authors": [
+    "Iftekhar Parvez"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/iftekharparvez/bootstrap.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
